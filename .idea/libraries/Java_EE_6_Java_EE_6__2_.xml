@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
